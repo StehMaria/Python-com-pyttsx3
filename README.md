@@ -39,6 +39,8 @@ Uma empresa especializada em softwares para deficientes visuais está desenvolve
 [Anaconda](https://www.anaconda.com/products/distribution)  
 [Pyttsx3](https://pypi.org/project/pyttsx3/)
 
-
+### Sobre
+### Como instalar
+### Como usa
 
 
