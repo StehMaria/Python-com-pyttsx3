@@ -6,23 +6,23 @@
 
 <h1 align=center>Aplicativo financeiro em Python 💰</h1>
 
-### Ferramentas:
+## Ferramentas:
 * Python 3
 * Anaconda
 * Jupyter Notebook
 
 **Tier:** Médio ⭐⭐⭐
 
-### Objetivo:
+## Objetivo:
 Uma empresa especializada em softwares para deficientes visuais está desenvolvendo um aplicativo financeiro em Python, que permitirá um maior controle financeiro do usuário.
 
-### User Storie:
+## User Storie:
 
 -   [ ] Como usuário, quero digitar um valor e ouvir em voz alta, para controle financeiro.
 -   [ ] Como empresa, quero que a entrada do usuário seja modulável, deve permitir futuramente expandir para números maiores do que mil.
 -   [ ] Como empresa, quero validar se o valor de entrada está dentro do limite estabelecido.
 
-### Definition of Done:
+## Definition of Done:
 
 -   [ ] O software precisa ler as informações que aparecem na tela em voz alta.
 -   [ ] O software precisa ser modulável e expandir para números maiores que mil.
@@ -34,16 +34,16 @@ Uma empresa especializada em softwares para deficientes visuais está desenvolve
 50,23 = "cinquenta reais e vinte e três centavos"  
 873,00 = "oitocentos e setenta e três reais"  
 
-### Links úteis
+## Links úteis
 
 [Anaconda](https://www.anaconda.com/products/distribution)  
 [Pyttsx3](https://pypi.org/project/pyttsx3/)
 
-### Sobre
+## Sobre
 
 Este script simula o funcionamento de um aplicativo de controle fnanceiro para deficientes visuais. Utilizando a linguagem Python e a plataforma Anaconda, foi possível criar uma função que recebe os valores do usuário e transforma em voz. A biblioteca utilizada foi a Pyttsx3, que transforma texto em fala.
 
-### Como instalar
+## Como instalar
 
 Para que o notebook funcione, é necessário que tenha instalado a plataforma Anaconda. Depois de instalar, baixe o código no github.
 1. Abra o prompt de comando do Anaconda.
@@ -57,7 +57,7 @@ jupyter notebook
 ```
 4. Aguarde um pouco e no seu navegador irá abrir a plataforma Jupyter Notebook na pasta onde está o arquivo. Abra o arquivo e clique em run ▶ para executar as células.
 
-### Como usa
+## Como usa
 
 Após executar as células, irá aparecer um *input* para digitar o valor desejado, que deve ser de 0,01 até 999,90. Para deixar a função modulável, descomente as linhas comentadas, comente as que estão informadas e execute novamente.
 
