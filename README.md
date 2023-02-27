@@ -14,8 +14,7 @@
 **Tier:** Médio ⭐⭐⭐
 
 ### Objetivo:
-Uma empresa especializada em softwares para deficientes visuais está desenvolvendo um 
-aplicativo financeiro em Python, que permitirá um maior controle financeiro do usuário.
+Uma empresa especializada em softwares para deficientes visuais está desenvolvendo um aplicativo financeiro em Python, que permitirá um maior controle financeiro do usuário.
 
 ### User Storie:
 
@@ -34,6 +33,11 @@ aplicativo financeiro em Python, que permitirá um maior controle financeiro do 
 1,01 = "um real e um centavo"  
 50,23 = "cinquenta reais e vinte e três centavos"  
 873,00 = "oitocentos e setenta e três reais"  
+
+### Links úteis
+
+[Anaconda](https://www.anaconda.com/products/distribution)  
+[Pyttsx3](https://pypi.org/project/pyttsx3/)
 
 
 
