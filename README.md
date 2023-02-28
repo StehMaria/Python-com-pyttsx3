@@ -57,9 +57,9 @@ jupyter notebook
 ```
 4. Aguarde um pouco e no seu navegador irá abrir a plataforma Jupyter Notebook na pasta onde está o arquivo. Abra o arquivo e clique em run ▶ para executar as células.
 
-### Como usa
+### Como usar
 
-Após executar as células, irá aparecer um *input* para digitar o valor desejado, que deve ser de 0,01 até 999,90. Para deixar a função modulável, descomente as linhas comentadas, comente as que estão informadas e execute novamente.
+Após executar as células, irá aparecer um *input* para digitar o valor desejado, que deve ser de 0,01 até 999,99. Para deixar a função modulável, descomente as linhas comentadas, comente as que estão informadas e execute novamente.
 
 
 
